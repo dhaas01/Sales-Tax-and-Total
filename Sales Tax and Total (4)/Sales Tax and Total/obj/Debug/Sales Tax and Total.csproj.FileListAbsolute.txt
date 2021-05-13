@@ -1,0 +1,10 @@
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Sales Tax and Total (4)\Sales Tax and Total\bin\Debug\Sales Tax and Total.exe.config
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Sales Tax and Total (4)\Sales Tax and Total\bin\Debug\Sales Tax and Total.exe
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Sales Tax and Total (4)\Sales Tax and Total\bin\Debug\Sales Tax and Total.pdb
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Sales Tax and Total (4)\Sales Tax and Total\obj\Debug\Sales Tax and Total.csprojAssemblyReference.cache
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Sales Tax and Total (4)\Sales Tax and Total\obj\Debug\Sales_Tax_and_Total.Form1.resources
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Sales Tax and Total (4)\Sales Tax and Total\obj\Debug\Sales_Tax_and_Total.Properties.Resources.resources
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Sales Tax and Total (4)\Sales Tax and Total\obj\Debug\Sales Tax and Total.csproj.GenerateResource.cache
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Sales Tax and Total (4)\Sales Tax and Total\obj\Debug\Sales Tax and Total.csproj.CoreCompileInputs.cache
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Sales Tax and Total (4)\Sales Tax and Total\obj\Debug\Sales Tax and Total.exe
+E:\Programs\Chapter 3 Numbers 2,3 and 4\Sales Tax and Total (4)\Sales Tax and Total\obj\Debug\Sales Tax and Total.pdb
